@@ -6,9 +6,9 @@ spring
 spring
   profiles: dev #开发环境
     application:
-      name: miceoservicecloud-cofig-atguigu-dev
+      name: miceoservicecloud-config-atguigu-dev
 ---
 spring
   profiles: test #测试环境
     application:
-      name: miceoservicecloud-cofig-atguigu-test
+      name: miceoservicecloud-config-atguigu-test
